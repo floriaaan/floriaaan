@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@t3tra_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/t3tra_)](https://twitter.com/t3tra_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Florian_Leroux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/floriaaan/)](https://www.linkedin.com/in/floriaaan/) 
