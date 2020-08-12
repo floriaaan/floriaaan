@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 [![Twitter Badge](https://img.shields.io/badge/-@t3tra_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/t3tra_)](https://twitter.com/t3tra_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Florian_Leroux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/floriaaan/)](https://www.linkedin.com/in/floriaaan/) 
 [![Gmail Badge](https://img.shields.io/badge/-florian.leroux3@laposte.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:florian.leroux3@laposte.net)](mailto:florian.leroux3@laposte.net)
@@ -10,10 +12,18 @@
 
  
 I'm Florian, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Rouen, France</b>.
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=floriaaan&show_icons=true&count_private=true&hide=issues,contribs" alt="floriaaan" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floriaaan&layout=compact&hide=html" alt="floriaaan top langs">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=floriaaan&show_icons=true" alt="floriaaan" />  
+
+## Main projects🌱
+
+[![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=temper&show_owner=true)](https://github.com/floriaaan/temper)
+
  
-### Things I code with 
+### Things I code with 🏄‍
 <p>
  
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
