@@ -23,7 +23,7 @@ I'm Florian, Fullstack developer from <img src="https://image.flaticon.com/icons
 [![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=temper&show_owner=true)](https://github.com/floriaaan/temper)
 
  
-### Things I code with 🏄‍
+## Tools and Technos 🏄‍
 <p>
  
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
