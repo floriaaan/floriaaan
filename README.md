@@ -21,6 +21,7 @@ I'm Florian, Fullstack developer from <img src="https://image.flaticon.com/icons
 ## Main projects🌱
 
 [![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=temper&show_owner=true)](https://github.com/floriaaan/temper)
+[![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=gazouilleur)](https://github.com/floriaaan/gazouilleur)
 
  
 ## Tools and Technos 🏄‍
