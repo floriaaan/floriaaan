@@ -21,12 +21,11 @@ I'm Florian, Fullstack developer from <img src="https://image.flaticon.com/icons
 ## Main projects🌱
 
 [![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=temper&show_owner=true)](https://github.com/floriaaan/temper)
-[![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=gazouilleur)](https://github.com/floriaaan/gazouilleur)
+[![Temper](https://github-readme-stats.vercel.app/api/pin/?username=floriaaan&repo=rebu)](https://github.com/floriaaan/rebu)
 
  
-## Tools and Technos 🏄‍
+<!--## Tools and Technos 🏄‍
 <p>
- 
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="OnePlus Phone" src="https://img.shields.io/badge/-OnePlus_6T-f5010c?style=flat-square&logo=oneplus&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -54,5 +53,5 @@ I'm Florian, Fullstack developer from <img src="https://image.flaticon.com/icons
   <img alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="jetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
-</p>
+</p>-->
 
