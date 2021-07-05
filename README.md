@@ -16,34 +16,13 @@ const Floriaaan = {
    linkedin: "floriaaan",
  },
  uses: {
-   frontend: ["React", "JavaScript", "Tailwind", "Bootstrap", "Sass", "HTML/CSS"],
-   backend: ["PHP😍", "NodeJS", "Laravel", "TypeScript", "Flask", "Java", "Play Framework"],
-   database: ["MySQL", "MongoDB"],
-   devops: ["Docker", "Nginx", "Apache", "Jenkins"],
-   tools: ["VSCode", "Insomnia", "Chrome Canary", "Windows 10 Insider", "GitHub", "GitLab", "Linux"],
+   frontend: ["React", "JavaScript", "Tailwind"],
+   backend: ["NextJS", "NodeJS", "Laravel", "TypeScript"],
+   tools: ["VSCode", "Insomnia", "Chrome"],
    misc: {
-    code: ["Firebase", "Prettier", "Chocolatey"],
-    communication: ["Discord", "Telegram", "OnePlus 6T"],
-    music: ["FL Studio 20"]
+    code: ["Firebase"]
    }
  },
- mainProjects: [
-  {
-   name: "Rebu Eats",
-   repo: "https://github.com/floriaaan/rebu",
-   technology: ["React Native", "JavaScript", "Firebase"],
-  },
-  {
-   name: "Temper",
-   repo: "https://github.com/floriaaan/temper",
-   technology: ["Ionic React", "TypeScript"],
-   api: {
-    name: "Temper-API",
-    repo: "https://github.com/floriaaan/temper-api",
-    technology: ["PHP", "Laravel"],
-   },
-  },
- ]
 };
 
 ```
