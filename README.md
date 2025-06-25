@@ -1,23 +1,25 @@
-### Hi there 👋
+### hey there 👋
 
-#### I'm a Full-Stack Developer working in Rouen, France.
+#### i'm a full-stack dev based in rouen, france.
 
-##### PROJECTS
+##### 🚧 current side-projects
 
-- S7acks (Stacks) [Closed source, for now?]: a self-made minecraft hosting service for low budget, with a control-plane (gRPC, clustering), a gateway (NestJS, Prisma, Stripe, Clerk), a front (React Router 7)
-- [GoodFood](https://github.com/floriaaan/goodfood): involving microservices, infrastructure, ci/cd, and more...
-- [NotionTR](https://github.com/floriaaan/notion-task-reporter): an utility to help create task reporting weekly using Notion made with Typescript, with AI autocompletion
-- [OpenMeet](https://github.com/floriaaan/openmeet): a content-management-system to build communities made with NextJS, Firebase
+- **s7acks** *(private for now?)* — a diy minecraft hosting platform for low-budget servers. built with:
+  - control plane: `rust`, `grpc`, clustering
+  - gateway: `nestjs`, `prisma`, `stripe`, `clerk`, `domain-driven development`
+  - frontend: `react-router@7`
+- [**goodfood**](https://github.com/floriaaan/goodfood) — microservices playground w/ infra, ci/cd, k8s, observability, the works.
+- [**notiontr**](https://github.com/floriaaan/notion-task-reporter) — typescript cli to auto-generate weekly task reports in notion. ai-assisted. because... laziness.
+- [**openmeet**](https://github.com/floriaaan/openmeet) — cms to spin up small communities. powered by `next.js` + `firebase`.
 
+##### ⚙️ devlog
 
-##### BIO
+- 🏢 day job @ **linkt**
+- 🛠️ tools of choice: `nestjs`, `docker`, `rust`, `typescript` (`/.(js|ts)(x?)$/`)
+- 🎨 tinkering with: `shadcn/ui`, `tailwindcss`, `figma`
+- 🧠 currently learning: **domain-driven design** (aka fighting my inner anarchy)
 
-- 🏢 I'm currently working at **Linkt**
-- ⚙️ I use daily: NestJS, Docker, Rust, Typescript `/.(js|ts)(x?)$/`
-- 💅 Love to design apps using **shadcn/ui**, **TailwindCSS** and **Figma**
-- 🌱 Learning all about **Domain-driven development**
-
-##### STATS
+##### 📈 stats
 
 <!--START_SECTION:waka-->
 
