@@ -4,7 +4,7 @@
 
 ##### 🚧 current side-projects
 
-- **stakx** *(private for now?)* — a diy minecraft hosting platform for low-budget servers. built with:
+- [**stakx**](https://stakx.fr) *(private for now?)* — a diy minecraft hosting platform for low-budget servers. built with:
   - control plane: `rust`, `grpc`, clustering
   - gateway: `nestjs`, `prisma`, `stripe`, `clerk`, `domain-driven development`
   - frontend: `react-router@7`
